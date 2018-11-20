@@ -1,29 +1,29 @@
-## Welcome to GitHub Pages
+## Hi welcome to my github website
 
-You can use the [editor on GitHub](https://github.com/syakante/syakante.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hi welcome to my github website
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hi welcome to my github website
 
-### Markdown
+### 🅱️arkdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+🅱️arkdown is a 🅱️ightweight and 🅱️asy-to-use 🅱️yntax for 🅱️tyling 🅱️our 🅱️riting. 🅱️t 🅱️n🅱️ludes 🅱️on🅱️entions 🅱️or
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Big text
+## Bigger text
+### E X P A N D TEXT
 
-- Bulleted
-- List
+- ul
+- ul
 
-1. Numbered
-2. List
+1. li
+2. li
 
-**Bold** and _Italic_ and `Code` text
+**EMPHASIS** and _TILT_ and `HOMBRE DE HACKER` text
 
-[Link](url) and ![Image](src)
+[Hi welcome to my github website](syakante.gitbut.io) and ![behehe](https://cdn.frankerfacez.com/emoticon/147807/4)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
